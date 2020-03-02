@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.cifra-shop.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>Cifra</name>
+    <name>Цифра</name>
 
     <description>
         Приложение созданное для покупателей магазина цифра шоп
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#F3F5F7" />
+    <preference name="SplashScreenSpinnerColor" value="#2BBCCD" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
