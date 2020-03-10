@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.cifra-shop.app"
         versionCode = "10"
-        version     = "1.17.0">
+        version     = "1.18.0">
 
     <name>Цифра</name>
 
@@ -54,20 +54,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/cd51cf85de1feec8b6b599ed78ef0fea.png" width="180" height="180" />
-        <icon src="res/ios/icon/33c29a24be7ddcae0bd89ac61bbbb31a.png" width="60" height="60" />
-        <icon src="res/ios/icon/e8827eace1b63ab00c050cbd8096e722.png" width="120" height="120" />
-        <icon src="res/ios/icon/561886160afdf0009b27e04b351c4968.png" width="76" height="76" />
-        <icon src="res/ios/icon/5748f6a662be50a160e0d1ec5f52ed10.png" width="152" height="152" />
-        <icon src="res/ios/icon/c8ae00caaaae11860ae4405acc843d36.png" width="57" height="57" />
-        <icon src="res/ios/icon/8c71d4141713379905173f09371b6f09.png" width="114" height="114" />
-        <icon src="res/ios/icon/382128494a5afbba956e808b0929367f.png" width="72" height="72" />
-        <icon src="res/ios/icon/3abe053f6b5e6b8205c98b022f410317.png" width="144" height="144" />
-        <icon src="res/ios/icon/18a1cd3afc7c3dc313caea79fa2592ed.png" width="167" height="167" />
-        <icon src="res/ios/icon/5379bfd93b7dba5fdfa13a38a3f2225e.png" width="29" height="29" />
-        <icon src="res/ios/icon/43a2ba313c034f5a7f215b84304d881a.png" width="58" height="58" />
-        <icon src="res/ios/icon/1bfab94f68ec68383c21312d633bc287.png" width="87" height="87" />
-        <icon src="res/ios/icon/bcbf95062ead837a97d3f709ce60325c.png" width="167" height="167" />
+        <icon src="res/ios/icon/b880138dfe7eb4e053216d0d15fc5077.png" width="180" height="180" />
+        <icon src="res/ios/icon/76aac411f7115f1f0263073b5b8c1e4c.png" width="60" height="60" />
+        <icon src="res/ios/icon/66f8dbc81b9f5ae625a8055a94f77cb1.png" width="120" height="120" />
+        <icon src="res/ios/icon/621497a1f293be0371f62cd748e39c4f.png" width="76" height="76" />
+        <icon src="res/ios/icon/fa1c54b45e1d755eb5fac2683e439707.png" width="152" height="152" />
+        <icon src="res/ios/icon/b6ffdd1d912359aa2a7310d1bcceb253.png" width="57" height="57" />
+        <icon src="res/ios/icon/d8d88cc8ebecedc9993f22d21343b4ba.png" width="114" height="114" />
+        <icon src="res/ios/icon/6b74528607a6737beb310d7f9c79ae36.png" width="72" height="72" />
+        <icon src="res/ios/icon/0fb901dfc589beb9c52cf63d849b579a.png" width="144" height="144" />
+        <icon src="res/ios/icon/1e7e6cfa6866ac96410ff1d1a156d56c.png" width="167" height="167" />
+        <icon src="res/ios/icon/b8b7c04c7a6e360c8095fcaff8a516dd.png" width="29" height="29" />
+        <icon src="res/ios/icon/2112d540196ec8747c87f0acb7c07319.png" width="58" height="58" />
+        <icon src="res/ios/icon/f3848a327c14196231b657c7794778c8.png" width="87" height="87" />
+        <icon src="res/ios/icon/141ed236024f0346d8af5e5c9868eaac.png" width="167" height="167" />
 
         <splash src="res/ios/screen/2cc34b39c6d2162f5a160bb31bbe938f.png" />
         <splash src="res/ios/screen/27419bc3f586501ea6ed60e4125671a6.png" />
