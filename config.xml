@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.cifra-shop.app"
         versionCode = "10"
-        version     = "1.20.0">
+        version     = "1.21.0">
 
     <name>Цифра</name>
 
